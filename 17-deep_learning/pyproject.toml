@@ -1,0 +1,13 @@
+[project]
+name = "17-deep-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.4",
+    "numpy>=1.23.5",
+    "tensorflow-io-gcs-filesystem==0.27.0",
+    "tensorflow==2.12.0",
+]
